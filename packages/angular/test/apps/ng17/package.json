@@ -32,7 +32,7 @@
     "@ionic/angular": "^7.0.0",
     "@ionic/angular-server": "^7.0.0",
     "core-js": "^3.33.2",
-    "express": "^4.15.2",
+    "express": "^4.19.2",
     "ionicons": "^7.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
