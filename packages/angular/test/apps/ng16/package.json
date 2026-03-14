@@ -21,8 +21,8 @@
   "dependencies": {
     "@angular/animations": "^16.0.0",
     "@angular/common": "^16.0.0",
-    "@angular/compiler": "^16.0.0",
-    "@angular/core": "^16.0.0",
+    "@angular/compiler": "^19.2.18",
+    "@angular/core": "^19.2.20",
     "@angular/forms": "^16.0.0",
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
@@ -41,10 +41,10 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.0.0",
-    "@angular-eslint/builder": "^16.3.1",
+    "@angular-eslint/builder": "^21.3.0",
     "@angular-eslint/eslint-plugin": "^16.3.1",
     "@angular-eslint/eslint-plugin-template": "^16.3.1",
-    "@angular-eslint/schematics": "^16.3.1",
+    "@angular-eslint/schematics": "^21.3.0",
     "@angular-eslint/template-parser": "^16.0.0",
     "@angular/cli": "^16.0.0",
     "@angular/compiler-cli": "^16.0.0",
